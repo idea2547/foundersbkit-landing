@@ -1,9 +1,9 @@
 <svelte:head>
-  <title>Founder SB Kit | Install the Solopreneur Operating System</title>
+  <title>Founder SB Kit | The System That Built $100K+ Revenue</title>
   <meta name="description" content="The exact system behind a 30,000-user SaaS, Shark Tank deal, and $100K+ revenue — installed into your business with your voice, your offer, your systems." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
   <meta property="og:title" content="Founder SB Kit — Built for Serious Solopreneurs" />
   <meta property="og:description" content="From $0 to $100K+ in 12 months. 100+ assets. 7-stage framework. 30-day installation." />
   <meta property="og:image" content="https://celesti.app/og-foundersb.jpg" />
@@ -53,13 +53,13 @@
     <div class="hero-inner">
       <p class="eyebrow">For solopreneurs doing $0/month to $10K+/month</p>
       <h1>
-        Install the Solopreneur<br>Operating System That<br>Took Me from $0 to $100K+
+        The System That Built<br>$100K+ Revenue From<br>One TikTok Video
       </h1>
       <p class="hero-sub">
         The exact system behind a 30,000-user SaaS, Shark Tank Thailand deal, and $100K+ revenue — installed into your business with your voice, your offer, your brand.
       </p>
       <div class="hero-cta-row">
-        <a class="btn-primary" href="#pricing">Get Founder SB Kit — $997</a>
+        <a class="btn-primary" href="https://buy.stripe.com/dRm8wO8f8a6P4Bka0z4ow0k" target="_blank" rel="noopener">Get Founder SB Kit — $997</a>
         <a class="btn-secondary" href="#about">Watch the Story</a>
       </div>
 
@@ -88,41 +88,41 @@
   <!-- NOT A... DIFFERENTIATION -->
   <section class="differentiation">
     <div class="section-header">
-      <h2>Not a Course. Not a SaaS. Not a<br>Consulting Call.</h2>
-      <p>Founder SB builds the systems that let your business grow without you in the room.</p>
+      <h2>Not something you watch.<br>Not something you rent.</h2>
+      <p>This is the system I built after burning through every course, tool, and call. It actually runs without me in the room.</p>
     </div>
     <div class="diff-grid">
       <div class="diff-card">
         <div class="diff-img" style="background: linear-gradient(135deg,#667eea,#764ba2);">
           <span style="font-size:48px;">&#128214;</span>
         </div>
-        <h4>Not a Course</h4>
-        <p>Every framework, every playbook, every template. Ready to use. You don't have a knowledge problem. You have an <strong>implementation problem</strong>.</p>
+        <h4>Not Another Course</h4>
+        <p>I bought 12 courses before building this. I kept watching, kept learning, kept stuck. What I needed was <strong>something I could install</strong> — not something else to study.</p>
       </div>
       <div class="diff-card">
         <div class="diff-img" style="background: linear-gradient(135deg,#f093fb,#f5576c);">
           <span style="font-size:48px;">&#128736;</span>
         </div>
-        <h4>Not a SaaS Tool</h4>
-        <p>Another tool won't fix a broken system. You need <strong>installed systems</strong> — templates, scripts, code repos, and SOPs — not another monthly subscription to manage.</p>
+        <h4>Not Another SaaS</h4>
+        <p>I had Airtable, Notion, and 7 other subscriptions. They were empty. What worked was <strong>one system with everything wired together</strong> — not another login to manage.</p>
       </div>
       <div class="diff-card">
         <div class="diff-img" style="background: linear-gradient(135deg,#4facfe,#00f2fe);">
           <span style="font-size:48px;">&#128239;</span>
         </div>
-        <h4>Not a Consulting Call</h4>
-        <p>One call won't transform your business. You need <strong>step-by-step guidance</strong> over 30 days with assets, checklists, and a proven framework that works long after.</p>
+        <h4>Not Another Call</h4>
+        <p>I spent $3,000 on a strategy call. Got amazing advice. Did nothing with it. What I needed was <strong>30 days of real execution</strong> with someone checking my work — not one hour of inspiration.</p>
       </div>
       <div class="diff-card">
         <div class="diff-img" style="background: linear-gradient(135deg,#43e97b,#38f9d7);">
           <span style="font-size:48px;">&#9989;</span>
         </div>
         <h4>Step-by-step guidance</h4>
-        <p>We build your solopreneur systems alongside you. You own everything. Your team runs it. It keeps working after we are done. <strong>100+ done-for-you assets</strong> included.</p>
+        <p>I built every piece so you can install them yourself. You own everything. Your team runs it. It keeps working after we are done. <strong>100+ done-for-you assets</strong> included.</p>
       </div>
     </div>
     <div class="diff-cta-row">
-      <a class="btn-primary" href="#pricing">Get the framework — $997</a>
+      <a class="btn-primary" href="https://buy.stripe.com/dRm8wO8f8a6P4Bka0z4ow0k" target="_blank" rel="noopener">Get the framework — $997</a>
     </div>
   </section>
 
@@ -259,7 +259,7 @@
   <section class="pricing" id="pricing">
     <div class="section-header">
       <p class="eyebrow-dark">Choose Your Tier</p>
-      <h2>Built for serious solopreneurs,<br>not digital tourists.</h2>
+      <h2>For founders who build<br>with code, not just likes.</h2>
     </div>
     <div class="pricing-grid">
       <!-- LIGHT -->
@@ -269,16 +269,18 @@
           <span class="usd">$197</span>
           <span class="thb">&#3647;6,900</span>
         </div>
-        <p class="price-desc">Core frameworks for testing the waters.</p>
-        <ul>
-          <li>&#9989; Solopreneur GPS Framework</li>
-          <li>&#9989; 10 Templates &amp; Checklists</li>
-          <li>&#9989; 30-Day Action Plan (PDF)</li>
-          <li>&#10060; Voice Funnel Setup</li>
-          <li>&#10060; 100+ Asset Library</li>
-          <li>&#10060; Loom Walkthroughs</li>
+        <p class="price-desc">The framework that changed everything. Start here.</p>
+        <ul class="price-features">
+          <li>&#9989; <strong>Solopreneur GPS&#8482; Framework</strong> — The 7-stage system that took me from $0 to $100K+. You'll know exactly where you are and what to do next.</li>
+          <li>&#9989; <strong>10 Ready-to-Use Templates</strong> — Positioning canvas, validation checklist, launch checklist, pricing worksheet, and 6 more. Fill in the blanks, never start from a blank page.</li>
+          <li>&#9989; <strong>30-Day Action Plan (PDF)</strong> — Day-by-day instructions. No guessing. Open it, do today's task, close it. Repeat for 30 days.</li>
+          <li>&#9989; <strong>Offer Clarity Worksheet</strong> — Define who you serve, what pain you solve, and why you're different in under 60 minutes.</li>
+          <li>&#9989; <strong>Revenue Path Map</strong> — Pick your monetization lane: SaaS, service, productized, or community. No more "shiny object" jumping.</li>
+          <li class="muted">&#10060; Voice Funnel Setup &amp; Scripts</li>
+          <li class="muted">&#10060; 100+ Asset Library &amp; Starter Repo</li>
+          <li class="muted">&#10060; Loom Walkthroughs &amp; AI Prompts</li>
         </ul>
-        <a class="btn-secondary wide" href="#">Get Light</a>
+        <a class="btn-secondary wide" href="https://buy.stripe.com/28E5kCfHAgvd6Js7Sr4ow0j" target="_blank" rel="noopener">Get Light — $197</a>
       </div>
       <!-- KIT -->
       <div class="price-card popular">
@@ -289,17 +291,17 @@
           <span class="thb">&#3647;34,900</span>
         </div>
         <p class="price-desc">Full system. 100+ assets. 30-day installation.</p>
-        <ul>
-          <li>&#9989; Full 7-Stage GPS Framework</li>
-          <li>&#9989; 100+ Done-For-You Assets</li>
-          <li>&#9989; Voice Funnel Scripts (5 variants)</li>
-          <li>&#9989; SvelteKit + PocketBase Starter Repo</li>
-          <li>&#9989; AI Coding Prompts (20+)</li>
-          <li>&#9989; Loom Walkthroughs (3 videos)</li>
-          <li>&#9989; Payment Integration Guides</li>
-          <li>&#9989; 14-Day Guarantee</li>
+        <ul class="price-features">
+          <li>&#9989; <strong>Full 7-Stage GPS Framework</strong> — Deep-dive playbooks for every stage, not just the overview.</li>
+          <li>&#9989; <strong>100+ Done-For-You Assets</strong> — Templates, scripts, SOPs, prompts, checklists. Everything you need, nothing you don't.</li>
+          <li>&#9989; <strong>Voice Funnel Scripts (5 variants)</strong> — AI voice agent scripts that qualify leads 24/7 while you sleep. Worth 10x the price alone.</li>
+          <li>&#9989; <strong>SvelteKit + PocketBase Starter Repo</strong> — Production-ready codebase. Deploy your SaaS in a weekend, not months.</li>
+          <li>&#9989; <strong>AI Coding Prompts (20+)</strong> — Vibe-code your product with Claude, GPT, or Cursor. Copy-paste, build, ship.</li>
+          <li>&#9989; <strong>Loom Walkthroughs (3 videos)</strong> — Watch me install each system in real-time. Pause, copy, repeat.</li>
+          <li>&#9989; <strong>Payment Integration Guides</strong> — Stripe setup, Thai QR (PromptPay), checkout flows. Start collecting money immediately.</li>
+          <li>&#9989; <strong>14-Day "Install &amp; Implement" Guarantee</strong></li>
         </ul>
-        <a class="btn-primary wide" href="#">Get Kit — $997</a>
+        <a class="btn-primary wide" href="https://buy.stripe.com/dRm8wO8f8a6P4Bka0z4ow0k" target="_blank" rel="noopener">Get Kit — $997</a>
       </div>
       <!-- VELOCITY -->
       <div class="price-card">
@@ -309,15 +311,15 @@
           <span class="thb">&#3647;122,500</span>
         </div>
         <p class="price-desc">Done-with-you. 1-on-1 support. 90 days.</p>
-        <ul>
-          <li>&#9989; Everything in Kit</li>
-          <li>&#9989; 1-on-1 Onboarding (90 min)</li>
-          <li>&#9989; Slack Support (90 days)</li>
-          <li>&#9989; Custom Voice Funnel Build</li>
-          <li>&#9989; Weekly Strategy Calls (4)</li>
-          <li>&#9989; Custom Integrations</li>
+        <ul class="price-features">
+          <li>&#9989; <strong>Everything in Kit</strong> — All 100+ assets, scripts, prompts, and walkthroughs included.</li>
+          <li>&#9989; <strong>1-on-1 Onboarding (90 min)</strong> — We map your exact 90-day plan together. No generic advice.</li>
+          <li>&#9989; <strong>Private Slack Support (90 days)</strong> — Ask anything, anytime. I reply within 24 hours.</li>
+          <li>&#9989; <strong>Custom Voice Funnel Build</strong> — I build your AI voice agent for your specific niche and market.</li>
+          <li>&#9989; <strong>Weekly Strategy Calls (4)</strong> — 45-minute deep dives on your toughest problems.</li>
+          <li>&#9989; <strong>Custom Integrations</strong> — Need Zapier, Make, or custom API work? I handle it.</li>
         </ul>
-        <a class="btn-secondary wide" href="#">Book Strategy Call</a>
+        <a class="btn-secondary wide" href="https://buy.stripe.com/14AaEW52W5Qz0l41u34ow0l" target="_blank" rel="noopener">Get Velocity — $3,500</a>
       </div>
     </div>
     <p class="guarantee-badge">
@@ -362,9 +364,9 @@
         <h2>From almost-giving-up to<br>Shark Tank Thailand.</h2>
         <p>Two years ago I had 1M views on TikTok, 30,000 users, and <strong>$100 in revenue</strong>. I was out of money. Month 6 was my lowest point.</p>
         <p>Then I built the system. Not another course. Not another tool. A <strong>system</strong> that installed my offer, my voice, and my brand into a machine that works without me.</p>
-        <p>Result: $100K+ revenue. 90% profit margin. Shark Tank Thailand Season 6. And now I am helping 10,000 solopreneurs do the same.</p>
+        <p>Result: $100K+ revenue. 90% profit margin. Shark Tank Thailand Season 6. And now I'm helping 10,000 solopreneurs do the same.</p>
         <p><strong>This is that system.</strong></p>
-        <a class="btn-primary" href="#pricing">Get the Kit — $997</a>
+        <a class="btn-primary" href="https://buy.stripe.com/dRm8wO8f8a6P4Bka0z4ow0k" target="_blank" rel="noopener">Get the Kit — $997</a>
       </div>
       <div class="about-visual">
         <div class="video-embed">
@@ -382,7 +384,7 @@
     <div class="final-cta-inner">
       <h2>Ready to install your<br>Solopreneur OS?</h2>
       <p>Choose your tier. Start building systems that work without you.</p>
-      <a class="btn-primary huge" href="#pricing">Get Founder SB Kit — $997</a>
+      <a class="btn-primary huge" href="https://buy.stripe.com/dRm8wO8f8a6P4Bka0z4ow0k" target="_blank" rel="noopener">Get Founder SB Kit — $997</a>
       <p class="final-note">&#128274; 14-day guarantee. No risk. Cancel anytime.</p>
       <div class="final-logo-carousel">
         <div class="logo-track">
@@ -941,6 +943,9 @@
   .price-card ul { list-style: none; padding: 0; margin: 0 0 24px; }
   .price-card li { font-size: 14px; padding: 7px 0; border-bottom: 1px solid rgba(22,22,22,0.05); }
   .price-card li:last-child { border-bottom: none; }
+  .price-features li { font-size: 13.5px; line-height: 1.55; padding: 8px 0; }
+  .price-features li strong { font-weight: 600; color: #161616; }
+  .price-features li.muted { color: #aaa; font-size: 13px; }
   .guarantee-badge {
     text-align: center;
     background: rgba(102,126,234,0.04);
@@ -1072,12 +1077,27 @@
   .footer-bottom p { font-size: 13px; color: rgba(255,255,255,0.3); margin: 0; }
   .footer-bottom .small { font-size: 11px; margin-top: 8px; line-height: 1.5; }
 
+  /* ===== SERIF HEADLINES ===== */
+  .hero h1, .section-header h2, .final-cta h2, .about-text h2 {
+    font-family: 'Instrument Serif', Georgia, 'Times New Roman', serif;
+    font-weight: 400;
+  }
+  .hero h1 { font-weight: 700; }
+
   /* ===== RESPONSIVE ===== */
+  /* Tablet */
+  @media (max-width: 1024px) {
+    .about-inner { grid-template-columns: 1fr; gap: 48px; }
+    .about-text { order: 2; }
+    .about-visual { order: 1; }
+  }
+  /* Mobile */
   @media (max-width: 768px) {
     nav { padding: 12px 16px; }
     .nav-links { display: none; }
+    .nav-cta { padding: 8px 16px; font-size: 13px; }
     .hero { padding: 120px 16px 60px; }
-    .hero h1 { font-size: 36px; letter-spacing: -1px; }
+    .hero h1 { font-size: clamp(28px, 9vw, 48px); letter-spacing: -1px; }
     .hero-sub { font-size: 16px; }
     .hero-cta-row { flex-direction: column; align-items: center; }
     .btn-primary, .btn-secondary { width: 100%; max-width: 320px; }
@@ -1086,6 +1106,42 @@
     .section-header { margin-bottom: 40px; }
     .about-inner { grid-template-columns: 1fr; gap: 32px; }
     .pricing-grid { grid-template-columns: 1fr; }
-    .diff-grid, .testi-grid { grid-template-columns: 1fr; }
+    .diff-grid, .testi-grid, .framework-grid { grid-template-columns: 1fr; }
+    .section-header h2 { font-size: clamp(26px, 8vw, 40px); }
+    .final-cta h2 { font-size: clamp(28px, 9vw, 48px); }
+    .footer-links { grid-template-columns: repeat(2, 1fr); }
+    .timeline { padding-left: 20px; }
+    .timeline-item { padding-left: 20px; }
+    .tl-dot { left: -20px; }
+    .quote-block p { font-size: 18px; }
+    .faq-item button { font-size: 15px; }
+    .price-card .price-tag .usd { font-size: 40px; }
+    .about-text h2 { font-size: clamp(24px, 7vw, 36px); }
+  }
+  /* Small Mobile */
+  @media (max-width: 480px) {
+    .hero { padding: 100px 12px 48px; }
+    .hero h1 { font-size: clamp(26px, 10vw, 40px); letter-spacing: -0.5px; }
+    .hero-sub { font-size: 15px; }
+    .footer-links { grid-template-columns: 1fr; gap: 24px; }
+    .diff-grid { grid-template-columns: 1fr; }
+    .framework-grid { grid-template-columns: 1fr; }
+    .price-card { padding: 28px 20px; }
+    .timeline { padding-left: 16px; }
+    .tl-dot { width: 12px; height: 12px; }
+    .section-header h2 { letter-spacing: -0.5px; }
+    .diff-card { padding: 20px; }
+    .testi-card { padding: 20px; }
+    .fw-card { padding: 22px; }
+    .guarantee-badge { padding: 16px 20px; }
+    .btn-primary.huge { padding: 14px 32px; font-size: 16px; }
+    .eyebrow { font-size: 11px; padding: 5px 12px; }
+    nav .logo { font-size: 16px; }
+    nav .logo svg { width: 28px; height: 28px; }
+    .faq-item button { padding: 16px 0; font-size: 14px; }
+    .faq-answer { font-size: 14px; }
+    .about-caption { font-size: 13px; }
+    .quote-mark { font-size: 48px; }
+    .quote-block { padding: 32px 16px; }
   }
 </style>
