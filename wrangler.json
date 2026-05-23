@@ -1,4 +1,5 @@
 {
+    "name": "foundersbkit-landing",
     "compatibility_flags": [
       "nodejs_compat"
     ],
