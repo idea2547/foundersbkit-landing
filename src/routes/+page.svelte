@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Founder SB Kit | V.O.I.C.E™ Framework — Positioning System ที่ตลาดเลือกคุณ</title>
-  <meta name="description" content="V.O.I.C.E™ Framework — จาก 'ขายอะไรก็ได้ให้คนไหนก็ได้' สู่ระบบที่ตลาดเลือกคุณ — ระบบเดียวกับที่พา 30K users, Shark Tank deal, และ $100K+ ติดตั้งให้ธุรกิจคุณ 7 วัน" />
+  <meta name="description" content="V.O.I.C.E™ Framework — จาก 'ขายอะไรก็ได้ให้คนไหนก็ได้' สู่ระบบที่ตลาดเลือกคุณ — ระบบเดียวกับที่พา 30K users, Shark Tank deal, และ $10K+ กำไร ติดตั้งให้ธุรกิจคุณ 7 วัน" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Noto+Sans+Thai:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -121,15 +121,6 @@
       <div class="hero-cta-row">
         <a class="btn-primary" href="#pricing">{t(lang, 'hero.cta')}</a>
         <a class="btn-secondary" href="#about">{t(lang, 'hero.watch')}</a>
-      </div>
-
-      <div class="trust-pill">
-        <span class="avatars">
-          {#each [1,2,3,4,5] as i}
-            <img src="https://i.pravatar.cc/48?img={i + 10}" alt="" width="32" height="32"/>
-          {/each}
-        </span>
-        <span>{@html t(lang, 'hero.trust')}</span>
       </div>
 
       <div class="proof-strip">
@@ -644,10 +635,6 @@
   .btn-secondary { display: inline-block; background: transparent; color: #fff; font-size: 15px; font-weight: 600; padding: 16px 28px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); text-decoration: none; cursor: pointer; transition: background 0.2s; font-family: inherit; }
   .btn-secondary:hover { background: rgba(255,255,255,0.05); }
   .btn-secondary.wide { width: 100%; text-align: center; }
-  .trust-pill { display: flex; align-items: center; gap: 12px; justify-content: center; font-size: 13px; color: rgba(255,255,255,0.5); margin-bottom: 40px; }
-  .avatars { display: flex; }
-  .avatars img { width: 32px; height: 32px; border-radius: 50%; border: 2px solid #0d0d0d; margin-left: -8px; }
-  .avatars img:first-child { margin-left: 0; }
   .proof-strip { display: flex; justify-content: center; gap: 32px; flex-wrap: wrap; padding: 24px 0; border-top: 1px solid rgba(255,255,255,0.06); }
   .proof-item { text-align: center; }
   .proof-num { display: block; font-size: 20px; font-weight: 800; color: #D4F53C; }

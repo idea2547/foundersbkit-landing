@@ -22,8 +22,6 @@ const translations: Translations = {
   'hero.sub-en': { th: 'Automated revenue for solo founders — built in Southeast Asia, working globally', en: 'Automated revenue for solo founders — built in Southeast Asia, working globally' },
   'hero.cta': { th: 'เริ่มระบบ 7 วัน — ฿1,490', en: 'Start 7-Day System — $67' },
   'hero.watch': { th: 'ดูว่าทำไมตลาดเลือกเขา', en: 'See why the market chooses them' },
-  'hero.trust': { th: '<strong>2,847</strong> solo founders ติดตั้งระบบนี้แล้ว', en: '<strong>2,847</strong> solo founders installed this system' },
-
   // DIFFERENTIATION
   'diff.h2': { th: 'คุณมีของดี แต่<span class="accent">ไม่มีใครรู้ว่าคุณมีอยู่</span>', en: 'You have a great product. <span class="accent">Nobody knows you exist.</span>' },
   'diff.sub': { th: 'ปัญหาไม่ใช่สินค้า ปัญหาคือ Positioning', en: 'The problem is not your product. The problem is your positioning.' },
@@ -104,7 +102,7 @@ const translations: Translations = {
 
   // PROOF
   'proof.eyebrow': { th: 'ผลลัพธ์จริงจากระบบเดียวกัน', en: 'Real results from the same system' },
-  'proof.h2': { th: 'จาก $100 สู่ $100K+ ใน 12 เดือน', en: 'From $100 to $100K+ in 12 months' },
+  'proof.h2': { th: 'จาก $100 สู่ $10K+ กำไร ใน 12 เดือน', en: 'From $100 to $10K+ profit in 12 months' },
   'proof.t1.time': { th: 'เดือน 0-6', en: 'Month 0-6' },
   'proof.t1.title': { th: 'TikTok ไวรัล แต่รายได้ศูนย์', en: 'TikTok viral, zero revenue' },
   'proof.t1.desc': { th: '1M views แต่ไม่มีใครซื้อ เพราะ Positioning ไม่ชัด คนดูเยอะ แต่คนดูไม่รู้ว่าซื้ออะไร', en: '1M views but nobody bought. Positioning was unclear. Lots of viewers, but nobody knew what to buy.' },
@@ -115,7 +113,7 @@ const translations: Translations = {
   'proof.t3.title': { th: 'จุดเปลี่ยน: แก้ Positioning', en: 'The pivot: fix positioning' },
   'proof.t3.desc': { th: 'อ่าน 100+ โพสต์ โพสต์ข้อความเดียวชี้ปัญหาจริง ผล: เริ่มมีคนถาม "ซื้อได้ไหม"', en: 'Read 100+ posts. Posted one message addressing real pain. Result: people started asking "can I buy this?"' },
   'proof.t4.title': { th: 'เปิดขาย Lifetime deal', en: 'Launch lifetime deal' },
-  'proof.t5.title': { th: '$100K+ Shark Tank Thailand', en: '$100K+ Shark Tank Thailand' },
+  'proof.t5.title': { th: '$10K+ กำไร Shark Tank Thailand', en: '$10K+ profit Shark Tank Thailand' },
 
   // TESTIMONIALS
   'testimonials.eyebrow': { th: 'คนที่ติดตั้งระบบแล้ว', en: 'People who installed the system' },
@@ -194,7 +192,7 @@ const translations: Translations = {
   'faq.1.q': { th: 'Founding Kit ฿16,900 คุ้มไหม?', en: 'Is Founding Kit at $497 worth it?' },
   'faq.1.a': { th: 'Founding Kit รวมทุกอย่างใน Starter + Personal Positioning Audit 1-on-1 + AI Agent Setup + Priority LINE Support 90 วัน + Founding Badge + ราคาตลอดกาล ถ้าซื้อหลัง Founding ปิด คุณจะจ่าย $997 สำหรับ Kit อย่างเดียว — ไม่มี Audit ไม่มี AI Agent  Founding คือข้อเสนอดีสุดที่จะมี แถมมี 30 วันคืนเงิน ความเสี่ยงคือศูนย์', en: 'Founding Kit includes everything in Starter + Personal Positioning Audit (1-on-1) + AI Agent Setup + Priority LINE Support for 90 days + Founding Badge + lifetime price lock. After founding closes, Kit alone costs $997 — no audit, no AI. Founding is the best deal that will ever exist. Plus 30-day money-back, so your risk is zero.' },
   'faq.2.q': { th: 'ได้ผลจริงไหม? หลายคอร์สสอนแล้วไม่เวิร์ค', en: 'Does it actually work? Many courses don\'t deliver.' },
-  'faq.2.a': { th: 'เราเข้าใจ — ตลาดไทยเคยโดน "คนรวยสอน" มาเยอะ แต่นี่ไม่ใช่คอร์สที่ใส่ความรู้แล้วหวังให้คุณทำ นี่คือระบบที่เรานั่งทำไปพร้อมกัน 7 วัน ผมเองใช้ระบบนี้จาก $0 ไป $100K+ ได้ Shark Tank deal และสร้าง SaaS 30K users โดยไม่ใช้โฆษณา นี่คือระบบที่ทำงานจริง — ไม่ใช่ทฤษฎี', en: 'We understand — the market has been burned by "get rich" gurus. But this is not a course that dumps knowledge and hopes you apply it. This is a system we build together in 7 days. I personally used this system to go from $0 to $100K+, get a Shark Tank deal, and build a 30K-user SaaS with zero ads. This is a working system — not theory.' },
+  'faq.2.a': { th: 'เราเข้าใจ — ตลาดไทยเคยโดน "คนรวยสอน" มาเยอะ แต่นี่ไม่ใช่คอร์สที่ใส่ความรู้แล้วหวังให้คุณทำ นี่คือระบบที่เรานั่งทำไปพร้อมกัน 7 วัน ผมเองใช้ระบบนี้จาก $0 ไป $10K+ กำไร ได้ Shark Tank deal และสร้าง SaaS 30K users โดยไม่ใช้โฆษณา นี่คือระบบที่ทำงานจริง — ไม่ใช่ทฤษฎี', en: 'We understand — the market has been burned by "get rich" gurus. But this is not a course that dumps knowledge and hopes you apply it. This is a system we build together in 7 days. I personally used this system to go from $0 to $10K+ profit, get a Shark Tank deal, and build a 30K-user SaaS with zero ads. This is a working system — not theory.' },
   'faq.3.q': { th: 'อ่านภาษาอังกฤษไม่ค่อยออก ใช้ได้ไหม?', en: 'My English isn\'t great. Can I still use it?' },
   'faq.3.a': { th: 'ได้แน่นอน — Kit ภาษาไทยทั้งหมด templates, worksheets, action plan ทุกอย่างเป็นภาษาไทย AI Agent (Hermes) ก็รับคำสั่งภาษาไทย เราสร้างเพื่อคนไทยก่อน ใช้ได้ทั่วโลก', en: 'Absolutely — the Kit is fully bilingual. Templates, worksheets, action plans are all in Thai. The AI Agent (Hermes) also accepts Thai commands. Built for Thai founders first, works globally.' },
   'faq.4.q': { th: 'ไม่มีเวลา ต้องใช้เวลาเท่าไหร่?', en: 'I don\'t have time. How long does it take?' },
@@ -218,8 +216,8 @@ const translations: Translations = {
   'about.eyebrow': { th: 'เรื่องราวจริง ไม่ใช่เรื่องแต่ง', en: 'Real story, not fiction' },
   'about.h2': { th: 'จากจะยอมแพ้ สู่ <span class="accent">Shark Tank Thailand</span>', en: 'From almost quitting to <span class="accent">Shark Tank Thailand</span>' },
   'about.p1': { th: 'ผมเป็น solo founder วัย 19 จากกรุงเทพฯ ไม่มีเงินทุน ไม่มี connections ไม่มีทีม สร้าง Celesti จากห้องนอน — แล้วทำ TikTok ได้ 1M views แต่รายได้ศูนย์', en: 'I was a 19-year-old solo founder from Bangkok. Zero funding, zero connections, zero team. Built Celesti from my bedroom — got 1M TikTok views but zero revenue.' },
-  'about.p2': { th: 'ปัญหาคือ Positioning — คนดูเยอะ แต่คนดูไม่รู้ว่าซื้ออะไร ผมแก้ Positioning แล้วทุกอย่างเปลี่ยน: จาก $100 เป็น $100K+ ใน 12 เดือน', en: 'The problem was positioning — lots of viewers but nobody knew what to buy. I fixed positioning and everything changed: from $100 to $100K+ in 12 months.' },
-  'about.p3': { th: 'ผล: รายได้ $100K+ กำไร 90% Shark Tank Thailand ซีซัน 6 และตอนนี้ผมช่วย solo founder 10,000 คนทำแบบเดียวกัน', en: 'Result: $100K+ revenue, 90% profit margin, Shark Tank Thailand Season 6. And now I\'m helping 10,000 solo founders do the same.' },
+  'about.p2': { th: 'ปัญหาคือ Positioning — คนดูเยอะ แต่คนดูไม่รู้ว่าซื้ออะไร ผมแก้ Positioning แล้วทุกอย่างเปลี่ยน: จาก $100 เป็น $10K+ กำไร ใน 12 เดือน', en: 'The problem was positioning — lots of viewers but nobody knew what to buy. I fixed positioning and everything changed: from $100 to $10K+ profit in 12 months.' },
+  'about.p3': { th: 'ผล: $10K+ กำไร 90% margin Shark Tank Thailand ซีซัน 6 และตอนนี้ผมช่วย solo founder 10,000 คนทำแบบเดียวกัน', en: 'Result: $10K+ profit, 90% margin, Shark Tank Thailand Season 6. And now I\'m helping 10,000 solo founders do the same.' },
   'about.p4': { th: 'ระบบนี้ไม่ใช่ทฤษฎี — มันคือเครื่องจักรที่พาผมจาก "ไม่มีใครรู้จัก" สู่ "ตลาดเลือกผม" และตอนนี้มันติดตั้งให้คุณได้', en: 'This system is not theory — it\'s the machine that took me from "nobody knows me" to "the market chose me." And now it can be installed for you.' },
   'about.cta': { th: 'เข้าลึก — จอง Founding', en: 'Go Deep — Lock Founding' },
 
