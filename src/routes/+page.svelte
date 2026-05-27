@@ -402,7 +402,9 @@
       <div class="limited-offer-card">
         <div class="limited-offer-pricing">
           <div class="limited-price-tag">
-          {#if t(lang, 'pricing.founding.original')}<span class="limited-old-price">{t(lang, 'pricing.founding.original')}</span>{/if}
+          {#if t(lang, 'pricing.founding.original').trim()}
+            <span class="limited-old-price">{t(lang, 'pricing.founding.original')}</span>
+          {/if}
             <span class="limited-new-price">{t(lang, 'pricing.founding.price')}</span>
             <span class="limited-save-badge">{t(lang, 'limited.save')}</span>
           </div>
@@ -451,7 +453,9 @@
         <div class="popular-badge">{t(lang, 'pricing.founding.popular')}</div>
         <h3>{t(lang, 'pricing.founding')}</h3>
         <div class="price-tag">
-          {#if t(lang, 'pricing.founding.original')}<span class="price-original">{t(lang, 'pricing.founding.original')}</span>{/if}
+          {#if t(lang, 'pricing.founding.original').trim()}
+            <span class="price-original">{t(lang, 'pricing.founding.original')}</span>
+          {/if}
           <span class="thb">{t(lang, 'pricing.founding.price')}</span>
           <span class="price-sub">{t(lang, 'pricing.founding.sub')}</span>
         </div>
