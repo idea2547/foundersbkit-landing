@@ -325,6 +325,10 @@
         <h4>{t(lang, 'proof.t5.title')}</h4>
       </div>
     </div>
+    <div class="proof-image">
+      <img src="/images/sharktank-celestiai.jpg" alt="Shark Tank Thailand Season 6 — CelestiAI" loading="lazy" />
+      <span class="proof-image-caption">Shark Tank Thailand ซีซัน 6</span>
+    </div>
   </section>
 
   <!-- TESTIMONIALS -->
@@ -470,6 +474,9 @@
       <span>🔒</span>
       {@html t(lang, 'pricing.guarantee')}
     </p>
+    <div class="pricing-mockup">
+      <img src="/images/package-3d-mockup.png" alt="Founder SB Kit — Growth Partner Package" loading="lazy" />
+    </div>
   </section>
 
   <!-- FAQ — 11 objection killers -->
@@ -719,6 +726,9 @@
   .tl-time { font-size: 11px; font-weight: 700; color: rgba(255,255,255,0.3); text-transform: uppercase; letter-spacing: 1px; }
   .tl-node h4 { font-size: 17px; font-weight: 600; margin: 4px 0 6px; }
   .tl-node p { font-size: 14px; color: rgba(255,255,255,0.55); line-height: 1.6; }
+  .proof-image { max-width: 720px; margin: 40px auto 0; text-align: center; }
+  .proof-image img { width: 100%; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 8px 32px rgba(0,0,0,0.4); }
+  .proof-image-caption { display: block; margin-top: 12px; font-size: 13px; color: rgba(255,255,255,0.35); letter-spacing: 0.5px; }
 
   /* TESTIMONIALS */
   .testimonials { background: #111; padding: 100px 24px; }
@@ -788,6 +798,8 @@
   .price-card li.guarantee-li { color: #D4F53C; font-weight: 600; border-bottom: none; }
   .guarantee-badge { text-align: center; font-size: 15px; color: rgba(255,255,255,0.6); max-width: 680px; margin: 0 auto; line-height: 1.7; }
   .guarantee-badge strong { color: #D4F53C; }
+  .pricing-mockup { max-width: 360px; margin: 48px auto 0; text-align: center; }
+  .pricing-mockup img { width: 100%; border-radius: 16px; filter: drop-shadow(0 12px 40px rgba(0,0,0,0.5)); }
 
   /* FAQ */
   .faq { background: #111; padding: 100px 24px; }
