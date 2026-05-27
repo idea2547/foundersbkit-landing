@@ -389,7 +389,7 @@
     <a class="btn-primary" href="#pricing">{t(lang, 'nav.cta')}</a>
   </section>
 
-  <!-- LIMITED OFFER — Founding Member -->
+  <!-- LIMITED OFFER — Growth Partner -->
   <section class="limited-offer" id="limited-offer">
     <div class="limited-offer-inner">
       <div class="limited-offer-badge">{t(lang, 'limited.badge')}</div>
@@ -567,7 +567,7 @@
       <button class="checkout-close" on:click={closeCheckout}>✕</button>
       <h3>{#if isThai}ชำระเงิน{:else}Checkout{/if}</h3>
       <p class="checkout-tier">
-        {#if checkoutTier === 'light'}Starter — {#if isThai}฿1,490{:else}$67{/if}{:else if checkoutTier === 'founding'}Founding Kit — {#if isThai}฿16,900{:else}$497{/if}{:else}Velocity{/if}
+        {#if checkoutTier === 'light'}Tier 1 — {#if isThai}฿1,490{:else}$67{/if}{:else if checkoutTier === 'founding'}Growth Partner — {#if isThai}฿33,900{:else}$997{/if}{:else}Velocity{/if}
       </p>
       <div class="checkout-options">
         <button class="checkout-option" on:click={checkoutStripe}>
