@@ -94,7 +94,7 @@ export const PRICES = {
   velocity: { usd: 1500, thb: 49000 },
 } as const;
 
-export const PROMPTPAY_ID = '0811255047';
+export const PROMPTPAY_ID = '0902861212';
 
 /**
  * Stripe Payment Links (created in Stripe Dashboard)
